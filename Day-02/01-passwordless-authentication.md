@@ -19,3 +19,4 @@ ssh-copy-id -f "-o IdentityFile <PATH TO PEM FILE>" ubuntu@<INSTANCE-PUBLIC-IP>
 - Update `PasswordAuthentication yes`
 - Restart SSH -> `sudo systemctl restart ssh`
 
+`
