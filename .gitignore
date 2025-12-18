@@ -1,1 +1,3 @@
-*group_vars
+vault.pass
+*.pass
+**/vault.pass
